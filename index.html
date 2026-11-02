@@ -2,57 +2,73 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f5f1e4">
-  <meta name="description" content="你好，我是 CoCo 小克克，一名 AI 产品经理。保持好奇，把技术的可能变成日常的好用。">
+  <meta name="theme-color" content="#ffffeb">
+  <meta name="description" content="CoCo 小克克的个人网站。一名 AI 产品经理，关注人的需要，也探索技术的可能。">
   <title>CoCo 小克克 · AI 产品经理</title>
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="./favicon.svg?v=wispr-1" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./yellow-footer.css">
+  <link rel="stylesheet" href="./style.css?v=wispr-1">
 </head>
 <body>
-  <a class="skip" href="#main">跳到正文</a>
-  <header class="header wrap">
-    <a class="brand" href="#" aria-label="CoCo 小克克，回到首页"><span class="brand-symbol" aria-hidden="true">cc</span><span>CoCo <b>小克克</b></span></a>
-    <nav id="navigation" aria-label="主导航"><a href="#work">产品探索</a><a href="#thinking">我的思考</a><a href="#about">关于我</a></nav>
-    <div class="nav-actions"><button class="menu-toggle" aria-expanded="false" aria-controls="navigation" aria-label="打开导航菜单"><span></span><span></span></button><a class="pill nav-cta" href="#about">认识 CoCo <span class="arrow-dot blue">↗</span></a></div>
-  </header>
+  <a class="wf-skip" href="#main">跳到正文</a>
+  <div class="wf-site wf-header-shell">
+    <header class="wf-header wf-wrap">
+      <a class="wf-brand" href="#" aria-label="CoCo 小克克，回到首页"><span class="wf-brand-mark" aria-hidden="true">cc</span><span>CoCo <span class="wf-brand-cn">小克克</span></span></a>
+      <nav id="navigation" class="wf-nav" aria-label="主导航"><a href="#work">产品探索</a><a href="#thinking">我的思考</a><a href="#about">关于我</a></nav>
+      <div class="wf-nav-actions"><a class="wf-button wf-nav-cta" href="#about">认识 CoCo <span aria-hidden="true">↗</span></a><button class="wf-menu" aria-expanded="false" aria-controls="navigation" aria-label="打开导航菜单"><span></span><span></span></button></div>
+    </header>
+  </div>
   <main id="main">
-    <section class="hero">
-      <div class="hero-copy wrap">
-        <p class="eyebrow"><span class="tiny-flower" aria-hidden="true">✳</span> A little curiosity. A lot of possibilities.</p>
-        <h1 lang="en">Stay curious.<br>Make it useful<span class="headline-dot">.</span></h1>
-        <p class="hero-description">嗨，我是 <strong>CoCo 小克克</strong>，一名 AI 产品经理。<br>关心技术，也关心使用技术的每一个人。</p>
-        <a class="pill" href="#work">来看看我的产品世界 <span class="arrow-dot blue">↗</span></a>
-      </div>
-      <img class="hero-illustration" src="./assets/curious-world.svg?v=2" width="1200" height="430" alt="一位创作者坐在桌前使用电脑，另一位站立阅读笔记，身旁的白板上贴着产品想法。" fetchpriority="high">
-      <div class="hero-foot wrap"><span>Human needs. Thoughtful AI. Everyday possibilities.</span><a href="#work">带着好奇，往下看看 <span>↓</span></a></div>
-    </section>
-    <section class="about-section wrap section" id="about">
-      <div class="about-side"><p class="eyebrow">A human behind the products</p><h2>认真做产品，<br>也认真<span class="hand-underline">好奇</span>。</h2><div class="about-doodle" aria-hidden="true"><span>hello,<br>I'm CoCo!</span><svg viewBox="0 0 190 65"><path d="M5 20c50 70 104 32 157 5m-20-2 24-2-10 22"/></svg></div></div>
-      <div class="about-card"><span class="card-flower" aria-hidden="true">✳</span><p class="card-kicker">AI 产品经理 / CoCo 小克克</p><h3>在技术和生活之间，<br>寻找一个好主意。</h3><p>我关注技术怎样进入真实生活，也关心一个产品为什么值得存在。</p><p>这里是我的一小块互联网空间。我用产品探索和文字，记录对 AI、体验与人的思考，也给还没成形的想法留一点位置。</p><div class="about-tags"><span>产品思考</span><span>AI 探索</span><span>体验与细节</span></div><button class="inline-link copy-intro">复制我的个人介绍 <span>↗</span></button></div>
-    </section>
-    <section class="work-section wrap section" id="work">
-      <div class="section-heading"><p class="eyebrow">Ideas, taking shape</p><h2>给好奇心，<br>一个具体的样子。</h2><p class="section-description">从一个小问题出发，探索 AI 能带来的不同。</p></div>
-      <div class="work-filters" role="group" aria-label="筛选产品探索"><div class="filter-options"><button class="filter active" data-filter="all" aria-pressed="true">全部探索 <span>3</span></button><button class="filter" data-filter="agent" aria-pressed="false">AI Agent</button><button class="filter" data-filter="experience" aria-pressed="false">产品体验</button></div><p class="concept-note">概念探索 · 非已上线项目</p></div>
-      <div class="project-list">
-        <article class="project" data-category="agent"><div class="project-art"><img src="./assets/idea-friends.svg?v=2" width="600" height="480" loading="lazy" alt="一位创作者自然站在计划白板旁，抬起一只前臂，用笔整理便签上的任务。"></div><div class="project-card"><p class="card-kicker">AI Agent / 概念探索</p><h3>一个想法，<br>一起走远一点。</h3><p class="project-name">CoPilot · 让灵感走向行动</p><p>从模糊的念头到可推进的下一步。探索一个能理解意图、拆解任务，也懂得把决定权交还给你的 AI 工作伙伴。</p><button class="pill project-cta" data-project="copilot" aria-haspopup="dialog">看看这个想法 <span class="arrow-dot coral">↗</span></button></div></article>
-        <article class="project reverse" data-category="agent"><div class="project-art"><img src="./assets/connected-thoughts.svg" width="600" height="480" loading="lazy" alt="几张记录着星星、爱心与花朵的彩色纸卡，被一条好奇的线连接起来。"></div><div class="project-card"><p class="card-kicker">Knowledge × AI / 概念探索</p><h3>收藏的灵感，<br>可以再次相遇。</h3><p class="project-name">知屿 · 让知识彼此相连</p><p>收藏只是开始。当一个具体问题出现，让散落的笔记、文章与想法重新连接，从“收藏过”走向“用得上”。</p><button class="pill project-cta" data-project="knowledge" aria-haspopup="dialog">看看这个想法 <span class="arrow-dot blue">↗</span></button></div></article>
-        <article class="project" data-category="experience"><div class="project-art"><img src="./assets/little-daily.svg?v=2" width="600" height="480" loading="lazy" alt="一位读者坐在有靠背的椅子上，双脚落地、双手捧书，旁边的小桌上放着热饮。"></div><div class="project-card"><p class="card-kicker">Product experience / 概念探索</p><h3>少一点操作，<br>多一点生活。</h3><p class="project-name">日常之间 · 自然发生的 AI 体验</p><p>不是每件小事都需要一场对话。在恰当的时刻，给出刚刚好的帮助，把注意力留给生活本身。</p><button class="pill project-cta" data-project="daily" aria-haspopup="dialog">看看这个想法 <span class="arrow-dot coral">↗</span></button></div></article>
-      </div>
-    </section>
-    <section class="thinking-section section" id="thinking"><div class="wrap">
-      <div class="thinking-heading"><div><p class="eyebrow">Notes from a curious mind</p><h2>一些观察，<br>一些还在生长的思考。</h2></div><span class="thinking-flower" aria-hidden="true">✳</span></div>
-      <div class="notes-list">
-        <button class="note-row" data-note="need" aria-haspopup="dialog"><span class="note-topic">产品判断</span><div><h3>先问“为什么需要 AI”，<br class="mobile-break">再问“怎么做 AI”</h3><p>把技术热情放回用户场景。</p></div><span class="note-arrow">↗</span></button>
-        <button class="note-row" data-note="agent" aria-haspopup="dialog"><span class="note-topic">人机协作</span><div><h3>一个好的 Agent，<br class="mobile-break">应该知道什么时候停下来</h3><p>自主性之外，还有边界感与信任。</p></div><span class="note-arrow">↗</span></button>
-        <button class="note-row" data-note="experience" aria-haspopup="dialog"><span class="note-topic">体验设计</span><div><h3>最好的 AI 体验，<br class="mobile-break">也许不需要一个聊天框</h3><p>让交互跟着任务走。</p></div><span class="note-arrow">↗</span></button>
-      </div><p class="draft-note">以上为个人网站的产品思考草稿，持续整理中。</p>
-    </div></section>
+    <div class="wf-site">
+      <section class="wf-hero wf-wrap">
+        <p class="wf-eyebrow"><span class="wf-status-dot" aria-hidden="true"></span> CoCo 小克克 / AI 产品经理</p>
+        <h1 lang="en"><span>Curious by nature.</span><br>Human by <em class="wf-underline">design.</em></h1>
+        <div class="wf-hero-bottom"><p>在技术的可能与人的需要之间，<br>寻找值得做的产品，让 AI 成为日常的好用。</p><div class="wf-hero-actions"><a class="wf-button" href="#work">探索我的产品世界 <span aria-hidden="true">↗</span></a><a class="wf-text-link" href="#thinking">读一点产品思考 <span aria-hidden="true">→</span></a></div></div>
+        <div class="wf-hero-signature" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><path id="curiosity-circle" d="M60 60m-44 0a44 44 0 1 1 88 0a44 44 0 1 1-88 0"/></defs><text><textPath href="#curiosity-circle">STAY CURIOUS · MAKE IT USEFUL · </textPath></text></svg><span>cc</span></div>
+      </section>
+
+      <section class="wf-intro-chamber wf-wrap" aria-label="CoPilot 概念预览">
+        <div class="wf-intro-copy"><span class="wf-light-badge">一个产品想法 / CoPilot</span><h2 lang="en">A little clarity.<br>A useful next step.</h2><p>把模糊的想法，整理成可以开始的下一步。<br>也把重要的判断，留在人手中。</p><button class="wf-button wf-button-light" data-project="copilot" aria-haspopup="dialog">看看这个概念 <span aria-hidden="true">↗</span></button></div>
+        <div class="wf-plan-window" role="img" aria-label="概念示例：从一个想法出发，明确目标、梳理路径，再由用户确认下一步。">
+          <div class="wf-window-top"><span class="wf-window-logo">CoPilot</span><span>概念示例</span></div>
+          <p class="wf-window-question">“我有一个想法，<br>但还不知道怎么开始。”</p>
+          <div class="wf-plan-item"><span class="wf-check">✓</span><div>先找到真正的问题<small>谁会用它？现在的做法哪里不够好？</small></div></div>
+          <div class="wf-plan-item"><span class="wf-check">✓</span><div>把大想法拆成小步骤<small>明确目标，再选择一条可验证的路径。</small></div></div>
+          <div class="wf-plan-item wf-plan-pending"><span class="wf-check">↗</span><div>由你决定下一步<small>可修改，可暂停，始终保留控制权。</small></div></div>
+          <div class="wf-window-footer"><span class="wf-forest-badge">Human in the loop</span><span>想法 → 行动</span></div>
+        </div>
+      </section>
+
+      <section class="wf-about wf-wrap" id="about">
+        <div><p class="wf-eyebrow">The person behind the products</p><h2 lang="en">Technology is a tool.<br>People are <em>the point.</em></h2></div>
+        <div class="wf-about-copy"><p class="wf-about-lead">嗨，我是 CoCo 小克克。</p><p>一名 AI 产品经理。我关注技术怎样进入真实生活，也关心一个产品为什么值得存在。</p><p>这里是我的一小块互联网空间。我用产品探索和文字，记录对 AI、体验与人的思考，也给还没成形的想法留一点位置。</p><div class="wf-about-tags"><span>产品思考</span><span>AI 探索</span><span>体验与细节</span></div><button class="wf-text-link copy-intro">复制我的个人介绍 <span aria-hidden="true">↗</span></button></div>
+      </section>
+
+      <section class="wf-work-chamber" id="work"><div class="wf-wrap">
+        <div class="wf-section-heading"><div><p class="wf-eyebrow">Product explorations</p><h2 lang="en">Ideas, made <em>tangible.</em></h2></div><p>从一个真实问题出发，<br>探索 AI 可以带来的不同。</p></div>
+        <div class="wf-work-filters" role="group" aria-label="筛选产品探索"><div class="wf-filter-options"><button class="wf-filter active" data-filter="all" aria-pressed="true">全部探索 <span>3</span></button><button class="wf-filter" data-filter="agent" aria-pressed="false">AI Agent</button><button class="wf-filter" data-filter="experience" aria-pressed="false">产品体验</button></div><span class="wf-concept-note">概念探索 · 非已上线项目</span></div>
+        <div class="wf-project-list">
+          <article class="wf-project wf-project-featured" data-category="agent"><div class="wf-project-copy"><span class="wf-dark-badge">AI Agent</span><h3 lang="en">From a spark<br>to a first step.</h3><p class="wf-project-name">CoPilot · 让灵感走向行动</p><p>探索一个能理解意图、拆解任务，也懂得把决定权交还给你的 AI 工作伙伴。</p><button class="wf-button" data-project="copilot" aria-haspopup="dialog">探索 CoPilot <span aria-hidden="true">↗</span></button></div><div class="wf-copilot-preview" role="img" aria-label="CoPilot 概念示例：一个可以编辑的产品任务计划。"><div class="wf-preview-toolbar"><span>✳</span><span>CoPilot / Workspace</span><span>•••</span></div><div class="wf-preview-content"><span class="wf-preview-tag">从这里开始</span><p>给想法，一点方向。</p><div class="wf-preview-prompt">帮我把这个想法，变成产品方案 <span>↗</span></div><div class="wf-preview-step"><i>✓</i> 明确目标与使用场景</div><div class="wf-preview-step"><i>✓</i> 拆解任务与关键假设</div><div class="wf-preview-step"><i>○</i> 选择一个可验证的下一步</div><div class="wf-preview-confirm">计划已整理，等待你的判断。<span>可编辑</span></div></div></div></article>
+          <article class="wf-project wf-project-knowledge" data-category="agent"><div class="wf-project-copy"><span class="wf-light-badge">Knowledge × AI</span><h3 lang="en">Knowledge,<br><em>connected.</em></h3><p class="wf-project-name">知屿 · 让知识彼此相连</p><p>让散落的笔记、文章与想法，在一个具体问题面前重新变得有用。</p><button class="wf-button wf-button-light" data-project="knowledge" aria-haspopup="dialog">探索知屿 <span aria-hidden="true">↗</span></button></div><div class="wf-knowledge-preview" role="img" aria-label="几张相关的知识卡片，围绕同一个问题连接起来。"><div class="wf-knowledge-card"><span>阅读笔记</span><strong>一个值得<br>继续追问的问题。</strong><i>↗ 回到出处</i></div><div class="wf-knowledge-card"><span>新的连接</span><strong>收藏过，<br>也用得上。</strong><i>✳ 与当前任务相关</i></div><div class="wf-knowledge-line"></div></div></article>
+          <article class="wf-project wf-project-daily" data-category="experience"><div class="wf-project-copy"><span class="wf-dark-badge">Product experience</span><h3 lang="en">Less friction.<br>More living.</h3><p class="wf-project-name">日常之间 · 自然发生的 AI 体验</p><p>在恰当的时刻，给出刚刚好的帮助，把注意力留给生活本身。</p><button class="wf-button wf-button-secondary" data-project="daily" aria-haspopup="dialog">探索日常之间 <span aria-hidden="true">↗</span></button></div><div class="wf-daily-preview" role="img" aria-label="日常助手概念界面：记录一个想法，整理今天的任务。"><div class="wf-phone"><div class="wf-phone-camera"></div><span class="wf-phone-date">A little room for life.</span><p>早上好，CoCo。</p><div class="wf-phone-message">今天，给自己一点留白。<span>先从一件小事开始。</span></div><div class="wf-phone-task">○ 读一篇好文章</div><div class="wf-phone-task">○ 记录一个产品想法</div><div class="wf-phone-input">有什么新想法？ <span>+</span></div></div></div></article>
+        </div>
+      </div></section>
+
+      <section class="wf-thinking wf-wrap" id="thinking">
+        <div class="wf-section-heading"><div><p class="wf-eyebrow">Notes & perspectives</p><h2 lang="en">A few notes.<br>More <em class="wf-underline">questions.</em></h2></div><p>一些产品问题，<br>也是一点个人视角。</p></div>
+        <div class="wf-notes-list">
+          <button class="wf-note" data-note="need" aria-haspopup="dialog"><span class="wf-note-topic">产品判断</span><h3>先问“为什么需要 AI”，<br>再问“怎么做 AI”</h3><p>把技术热情放回用户场景。</p><span class="wf-note-bottom">阅读思考 <i aria-hidden="true">↗</i></span></button>
+          <button class="wf-note" data-note="agent" aria-haspopup="dialog"><span class="wf-note-topic">人机协作</span><h3>一个好的 Agent，<br>应该知道什么时候停下来</h3><p>自主性之外，还有边界感与信任。</p><span class="wf-note-bottom">阅读思考 <i aria-hidden="true">↗</i></span></button>
+          <button class="wf-note" data-note="experience" aria-haspopup="dialog"><span class="wf-note-topic">体验设计</span><h3>最好的 AI 体验，<br>也许不需要一个聊天框</h3><p>让交互跟着任务走。</p><span class="wf-note-bottom">阅读思考 <i aria-hidden="true">↗</i></span></button>
+        </div><p class="wf-draft-note">以上为个人网站的产品思考草稿，持续整理中。</p>
+      </section>
+    </div>
     <section class="closing"><div class="wrap closing-inner"><div class="closing-heading"><p class="eyebrow">There's always another good question.</p><h2>好产品，<br>从一个<span class="hand-underline">好问题</span>开始。</h2></div><div class="closing-action"><span class="closing-sun" aria-hidden="true">✺</span><p>保持好奇，认真创造。<br>很高兴，你来到了这里。</p><a class="pill" href="#thinking">带走一点产品灵感 <span class="arrow-dot blue">↗</span></a></div></div></section>
   </main>
   <footer class="footer"><div class="wrap"><a class="brand" href="#"><span class="brand-symbol" aria-hidden="true">cc</span><span>CoCo <b>小克克</b></span></a><span>Made with curiosity, by CoCo.</span><a class="back-top" href="#">回到顶部 ↑</a></div></footer>
-  <dialog id="detail-dialog" aria-label="产品探索与思考详情"><button class="dialog-close" aria-label="关闭">×</button><div id="dialog-content"></div></dialog>
-  <div class="toast" role="status" aria-live="polite"></div>
-  <script src="./script.js"></script>
+  <dialog id="detail-dialog" class="wf-site wf-dialog" aria-label="产品探索与思考详情"><button class="dialog-close" aria-label="关闭">×</button><div id="dialog-content"></div></dialog>
+  <div class="toast wf-toast" role="status" aria-live="polite"></div>
+  <script src="./script.js?v=wispr-1"></script>
 </body>
 </html>

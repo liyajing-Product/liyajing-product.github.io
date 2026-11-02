@@ -1,0 +1,69 @@
+/* Preserved from the approved yellow closing section and footer. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+:root{--cream:#f5f1e4;--ink:#2c2e2a;--white:#fff;--green:#8ed462;--blue:#2ba0ff;--coral:#ff705d;--yellow:#f5e211;--sand:#e0dbce;--muted:#65675e;--line:#d3cfc1;--font:'Inter','PingFang SC','Microsoft YaHei',sans-serif;--radius:50px}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:35px}
+body{margin:0;background:var(--cream);color:var(--ink);font-family:var(--font);font-weight:400;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer;border:0}
+a,button{-webkit-tap-highlight-color:transparent}
+button:focus-visible,a:focus-visible{outline:3px solid var(--ink);outline-offset:6px}
+::selection{background:var(--green);color:var(--ink)}
+img{display:block;max-width:100%;height:auto}
+.wrap{width:calc(100% - 80px);max-width:1200px;margin-inline:auto}
+.brand{display:flex;align-items:center;gap:11px;font-size:18px;letter-spacing:-.7px;font-weight:500;white-space:nowrap}
+.brand-symbol{width:43px;height:43px;border:1.5px solid var(--ink);background:var(--green);border-radius:13px;display:grid;place-items:center;font-size:29px;letter-spacing:-5px;padding-right:5px;padding-bottom:3px;font-weight:500}
+.brand b{font-size:13px;font-weight:400;margin-left:5px;letter-spacing:0}
+.pill{display:inline-flex;justify-content:space-between;align-items:center;gap:24px;padding:10px 10px 10px 22px;border-radius:var(--radius);border:1px solid var(--ink);background:var(--white);font-size:14px;font-weight:500;min-height:52px;transition:transform .2s}
+.pill:hover{transform:translateY(-3px)}
+.arrow-dot{display:grid;place-items:center;width:31px;height:31px;flex-shrink:0;border-radius:50%;font-size:20px;line-height:1;color:var(--ink)}
+.blue{background:var(--blue)}
+.eyebrow{margin:0 0 27px;font-size:14px;line-height:1.5;font-weight:400;letter-spacing:-.1px}
+h2{font-weight:500;font-size:clamp(42px,4.4vw,60px);line-height:1.25;letter-spacing:-2.5px;margin:0}
+.hand-underline{position:relative;white-space:nowrap}
+.hand-underline:after{content:'';position:absolute;left:0;right:-2px;bottom:-3px;height:9px;border:2px solid var(--ink);border-left-color:transparent;border-right-color:transparent;border-bottom-color:transparent;border-radius:50%;transform:rotate(-3deg)}
+.closing{background:var(--yellow);padding:80px 0}
+.closing-inner{display:flex;justify-content:space-between;align-items:center;gap:70px}
+.closing h2{font-size:61px;line-height:1.35}
+.closing .eyebrow{font-size:13px;margin-bottom:26px}
+.closing-action{padding-right:35px}
+.closing-sun{font-size:76px;line-height:1;display:block;transform:rotate(15deg);width:max-content;margin-bottom:20px}
+.closing-action>p{font-size:15px;line-height:1.8;margin:0 0 24px}
+.closing .pill{border-color:var(--ink);font-size:13px}
+.footer{background:var(--yellow);padding:0 0 30px}
+.footer>.wrap{border-top:1px solid #2c2e2a55;padding-top:27px;display:flex;align-items:center;justify-content:space-between}
+.footer .brand-symbol{background:none;border:1.5px solid var(--ink);width:35px;height:35px;font-size:26px;border-radius:10px}
+.footer .brand{font-size:17px}
+.footer .brand b{font-size:11px}
+.footer>.wrap>span{font-size:12px}
+.back-top{font-size:12px}
+@media(max-width:1100px){.wrap{width:calc(100% - 64px)}
+.closing h2{font-size:49px}
+.closing-inner{gap:30px}
+.closing-action{padding-right:0}}
+@media(max-width:760px){.wrap{width:calc(100% - 36px)}
+.brand{font-size:16px;gap:8px}
+.brand-symbol{width:36px;height:36px;font-size:26px;border-radius:11px}
+.brand b{font-size:11px;margin-left:3px}
+.pill{font-size:12px;gap:22px;min-height:48px;padding:8px 8px 8px 18px}
+.arrow-dot{width:30px;height:30px;font-size:19px}
+.eyebrow{font-size:12px;margin-bottom:22px}
+h2{font-size:38px;line-height:1.4;letter-spacing:-1.8px}
+.closing{padding:52px 0}
+.closing-inner{flex-direction:column;align-items:flex-start;gap:35px}
+.closing h2{font-size:40px;letter-spacing:-2px;line-height:1.45}
+.closing .eyebrow{font-size:10px;margin-bottom:22px}
+.closing-action{position:relative;width:100%}
+.closing-sun{position:absolute;right:6px;top:5px;font-size:73px}
+.closing-action>p{font-size:13px;margin-bottom:23px}
+.closing .pill{font-size:12px}
+.footer{padding-bottom:25px}
+.footer>.wrap{flex-wrap:wrap;row-gap:23px;padding-top:24px}
+.footer>.wrap>span{order:3;width:100%;font-size:10px}
+.footer .brand{font-size:15px}
+.footer .brand-symbol{width:31px;height:31px;font-size:24px}
+.back-top{font-size:11px}}
+@media(max-width:370px){h2{font-size:34px}
+.closing h2{font-size:35px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}
+*,*::before,*::after{animation:none!important;transition:none!important}}

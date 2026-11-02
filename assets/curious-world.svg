@@ -1,56 +1,98 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" fill="none">
-<g stroke="#2c2e2a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
-<!-- A thought taking a walk. Flat, original editorial artwork. -->
-<path d="M44 389c87-11 141 7 217-1m27 0c85-8 166-7 241-1m61 0c110-9 192-3 281 1m30 0c100-8 164-4 258 0" stroke="#c9c6b9" stroke-width="2"/>
-<path d="m73 273 21-27 3 34 34 9-31 13-4 34-19-27-33 6 20-26-10-29Z" fill="#f5e211" stroke="none"/>
-<path d="M126 81c-10-21 9-35 20-15 6-24 31-16 20 5l-25 27Z" fill="#ff705d" stroke="none"/>
-<path d="m1027 70 10-24 11 24 24 10-24 11-11 24-10-24-25-11Z" fill="#2ba0ff" stroke="none"/>
-<!-- Left character: sitting on a very big idea. -->
-<path d="M139 367c-18-80 15-129 87-139 68-10 112 32 102 94-5 30-25 57-54 65H157Z" fill="#b9a0e5" stroke="none"/>
-<path d="M165 337c15-36 45-50 77-45" stroke="#796394" stroke-width="2"/>
-<path d="M239 223c-28 19-43 38-43 63l59 25 14 55 31-4-5-77-42-29 39-33" fill="#ff705d"/>
-<path d="m260 310 50-7 23 59 27-5 10 27-55 6-29-55" fill="#ff705d"/>
-<path d="m269 365 32-3 10 19c2 9-8 12-18 12h-26c-9 0-9-9 2-28Z" fill="#2c2e2a"/>
-<path d="m333 359 24-5 26 14c15 7 13 17 3 19l-32 2-17-12Z" fill="#2c2e2a"/>
-<path d="M229 137c-29 23-38 67-18 94 28 20 66 14 86-10l-8-79-30-25Z" fill="#2ba0ff"/>
-<path d="M229 160c-16 17-27 37-35 51-6 9-17 8-25-3l-30-41-16 10 35 59c16 25 41 16 56-1l29-40" fill="#2ba0ff"/>
-<path d="m139 167-4-17c-2-8-8-6-9 0l-2 8-12-13c-4-4-9 0-6 5l11 19-11-5c-6-2-8 5-2 9l20 11Z" fill="#f5f1e4"/>
-<path d="M277 159c10 23 24 35 48 39l26-37 16 11-25 50c-9 17-28 14-45 9l-17-8" fill="#2ba0ff"/>
-<path d="m350 163 5-14c3-8 9-7 9 1l-1 6 15-11c7-4 10 1 5 6l-10 11 9-2c8-1 8 6 1 9l-18 6Z" fill="#f5f1e4"/>
-<path d="M234 142v-27l32-3 1 26c-8 13-23 15-33 4Z" fill="#f5f1e4"/>
-<path d="M226 86c-10 18-4 43 12 47 13 5 31-3 34-18l6-20-24-26Z" fill="#f5f1e4"/>
-<path d="M227 104c-8-10-17-32-3-44 12-10 37-8 49 5 11 13 11 25 4 36l-10-15-12 3-8-11-9 21Z" fill="#2c2e2a"/>
-<path d="M225 102c-9-6-14 3-7 11l9 3" fill="#f5f1e4"/>
-<path d="m254 107 2 4m3 10 7-3" stroke-width="2.5"/>
-<!-- Central paper-cut thought cloud. -->
-<path d="M459 241c-39-2-53-43-24-66-20-35 13-66 45-55 2-40 50-48 72-23 28-33 72-18 76 17 36-16 68 14 58 45 43 9 47 52 16 72 15 37-19 68-52 57-13 36-56 40-77 10-31 26-71 10-72-24-22 8-40-8-42-33Z" fill="#8ed462"/>
-<path d="M525 174c-8 2-12 10-7 17m59-18c-8 0-12 8-8 15" stroke-width="4"/>
-<path d="M538 205c10 10 26 9 34-3" stroke-width="3"/>
-<path d="M479 250c-26 19-44 26-69 17l-23-12m263 6c29 6 48 0 65-20l19-24" stroke-width="10"/>
-<path d="m388 255-15-12m16 13-19 1m364-40 3-15m-3 15 15-5" stroke-width="4"/>
-<path d="m526 298-13 60-33 15m110-73 24 52 34 8" stroke-width="9"/>
-<path d="m483 369-21 15h50l7-24m96-6 4 30h50l-22-21" fill="#2c2e2a"/>
-<!-- A little handwritten orbit. -->
-<path d="M411 129c-10-38 34-73 86-74m151-3c46 5 74 34 71 65" stroke="#80827f" stroke-width="2" stroke-dasharray="5 8"/>
-<path d="m708 110 11 10 11-12" stroke="#80827f" stroke-width="2"/>
-<path d="m573 52-8-31m30 32 12-30m-54 39-25-15" stroke-width="3"/>
-<!-- Right character: making space for a new idea. -->
-<path d="M834 254c-23 31-36 55-38 96l-36 9 4 28h65l21-91 28 14-5 57 32 8 24-85-35-42Z" fill="#2ba0ff"/>
-<path d="m761 359 5 28h-44c-14 0-18-9-4-17l24-12Zm111 9 31 5 25 19c7 6 2 13-9 12l-47-6Z" fill="#2c2e2a"/>
-<path d="M840 143c-31 22-34 64-27 101 23 26 65 32 102 10l-17-102-30-17Z" fill="#ff705d"/>
-<path d="M826 169c-31 12-54 12-75 3l-15-10-10 17 18 15c23 18 52 23 78 12" fill="#ff705d"/>
-<path d="m738 165-13-14c-5-6-10-2-7 4l5 7-15-5c-8-2-10 5-2 8l9 3-9 2c-7 2-5 8 2 8l19 1Z" fill="#f5f1e4"/>
-<path d="M889 169c14 16 20 39 21 61l40-1 5 21-60 7c-15 1-20-17-24-33" fill="#ff705d"/>
-<path d="m948 231 18-3 16 8c7 4 4 10-3 7l-10-3 8 10c4 5-1 9-6 5l-12-10-7 5Z" fill="#f5f1e4"/>
-<path d="m851 144 4-30 28 6-1 29c-12 8-23 5-31-5Z" fill="#f5f1e4"/>
-<path d="M839 101c-3 19 8 34 23 34 19 0 32-22 26-40l-17-20Z" fill="#f5f1e4"/>
-<path d="M839 109c-17-6-21-21-11-33 7-8 14-6 20-6 4-19 34-19 44-4 10 16-1 35-8 43l-8-19-11 7-12-8-10 9Z" fill="#2c2e2a"/>
-<path d="m853 109 2 3m3 11 7-1" stroke-width="2.5"/>
-<!-- Plant, tiny shapes and the feeling of a sunny desk. -->
-<path d="m1007 337 10 49h53l10-49Z" fill="#f5e211"/>
-<path d="M1042 337v-97m0 57c-38-2-52-21-45-48 30 2 48 19 45 48Zm0-20c1-31 18-48 43-43 1 26-14 43-43 43Zm0 46c-23 0-35-14-33-33 22-1 35 12 33 33Z" fill="#8ed462"/>
-<path d="m1104 184 14 11m-15 16 20 1m-28 14 12 14" stroke="#ff705d"/>
-<circle cx="379" cy="105" r="7" fill="#2ba0ff" stroke="none"/>
-<circle cx="774" cy="84" r="6" fill="#b9a0e5" stroke="none"/>
-<path d="M75 371c-7-17-2-29 11-31 13-1 19 14 11 28m11 5c1-17 9-23 20-19" stroke-width="2.5"/>
+<g stroke="#2c2e2a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+
+<!-- The decorative shapes remain flat; neither ideas nor clouds have human limbs. -->
+<path d="M65 397h1070" stroke="#d4cfbf" stroke-width="1.5"/>
+<circle cx="612" cy="207" r="157" fill="#e9e4d5" stroke="none"/>
+<!-- Pinboard behind the two collaborators. -->
+<rect x="489" y="76" width="250" height="188" rx="12" fill="#fff"/>
+<path d="m519 264-14 126m204-126 16 126" stroke-width="3"/>
+<path d="M511 103h84m-84 10h49" stroke="#80827f" stroke-width="1.7"/>
+<rect x="515" y="142" width="61" height="58" rx="5" fill="#8ed462" transform="rotate(-5 545 171)"/>
+<rect x="593" y="150" width="55" height="54" rx="5" fill="#f5e211" transform="rotate(5 620 177)"/>
+<rect x="666" y="140" width="48" height="62" rx="5" fill="#b9a0e5" transform="rotate(-3 690 171)"/>
+<path d="m530 171 9 9 19-22m51 10h21m-21 10h14m52-17h23m-23 10h23m-23 10h15" stroke-width="1.8"/>
+<path d="M551 222c18 12 43 12 62 2m13 0c20 5 39 4 57-5" stroke="#80827f" stroke-width="1.5"/>
+<!-- CoCo seated at the laptop. -->
+<g transform="translate(59 6) scale(.94)">
+<g id="seated-reader">
+<!-- Chair: seat and back support the hips, all feet share the same floor. -->
+<path d="M135 191q-17 0-17 19v78q0 14 16 14h102v-17h-84v-75q0-19-17-19Z" fill="#b9a0e5"/>
+<path d="M133 301 123 414M219 301 233 414" stroke-width="4"/>
+<!-- Far leg, ankle and shoe. -->
+<path d="M210 272c22 3 53 7 76 15 11 4 15 12 16 23l12 69-22 5-22-65-62-17Z" fill="#ff705d"/>
+<path d="m292 377 22-2 3 17-22 3Z" fill="#f1c8ad"/>
+<path d="m294 391 21-2 14 8 14 3q7 6-2 10h-49q-5-5 2-19Z" fill="#fff"/>
+<path d="M293 404h48m-29-10 8 6" stroke-width="1.6"/>
+<!-- Near thigh is horizontal; calf drops below the knee without a sharp twist. -->
+<path d="M174 269c19 1 61 6 100 15 13 3 20 9 20 22l-5 79h-24l-3-68-74-7c-22-3-30-19-14-41Z" fill="#ff705d"/>
+<path d="M267 381h21v14h-21Z" fill="#f1c8ad"/>
+<path d="m266 391 23 1 16 10 12 3q4 7-5 9h-49q-4-10 3-23Z" fill="#fff"/>
+<path d="M264 408h49m-29-11 9 7" stroke-width="1.6"/>
+<!-- Neck and head. -->
+<path d="M177 151v26l24 2 2-31" fill="#f1c8ad"/>
+<path d="M164 123c-7-20-1-45 20-51 22-5 38 11 38 34l-5 30-43 16Z" fill="#2c2e2a"/>
+<path d="M177 105c11 1 23-6 27-16 11 7 16 18 15 30l6 8-9 5c-2 17-11 25-23 23-15-3-22-15-22-30Z" fill="#f1c8ad"/>
+<path d="M177 123c-11-7-16 7-5 13l6 1" fill="#f1c8ad"/>
+<path d="M202 112h7m-2 18h7m-15 12c5 3 9 3 13 0" stroke-width="1.6"/>
+<ellipse cx="207" cy="119" rx="1.7" ry="2.2" fill="#2c2e2a" stroke="none"/>
+<path d="M166 91c-14 1-24 15-20 29 3 13 12 19 26 17l4-37Z" fill="#2c2e2a"/>
+<!-- Relaxed torso, shoulders over hips. -->
+<path d="M171 166c9 8 20 11 31 4 19 8 30 28 28 51l-4 54c-17 9-42 8-64-1l-5-66c-1-19 2-32 14-42Z" fill="#8ed462"/>
+<path d="M175 168c1 14 15 20 27 2m-39 97c21 5 43 6 63-1" stroke-width="1.8"/>
+</g>
+
+<!-- Desk is in front of the knees and behind the working forearms. -->
+<path d="M232 261h181v12H232Z" fill="#e0dbce"/>
+<path d="m251 274-6 142m148-142 6 142" stroke-width="3"/>
+<g transform="translate(-30 0)"><path d="m304 255 13-69h83l-13 69Z" fill="#b9a0e5"/>
+<path d="m294 255 107 1-6 7h-99Z" fill="#fff"/>
+<circle cx="358" cy="223" r="6" fill="#fff" stroke="none"/></g>
+
+<!-- Far arm reaches the keyboard without lifting the shoulder. -->
+<path d="M211 188c10 4 13 17 15 30l5 21 35 3-1 19-46-4c-9-1-12-10-14-18l-9-30" fill="#8ed462"/>
+<path d="m263 243 18-2 17 3c5 1 5 6 0 6l-11 1 13 3c5 2 4 6-1 6l-35 1Z" fill="#f1c8ad"/>
+<!-- Near arm: elbow below shoulder, forearm roughly parallel to the desk. -->
+<path d="M168 185c-10 14-11 39-9 55 1 13 10 20 23 20h51v-20l-49-4 3-33" fill="#8ed462"/>
+<path d="m231 241 18-3 13 1 12 8c3 4-1 7-5 5l-9-4-9 2 19 4c5 1 5 6 0 6h-38Z" fill="#f1c8ad"/>
+<path d="M232 241v18m-71-18c2 8 8 11 17 11" stroke-width="1.7"/>
+</g>
+<!-- Product reviewer in a relaxed, weight-bearing stance. -->
+<g transform="translate(710 6) scale(.89)">
+<g id="standing-reviewer">
+<path d="M148 251h32l-5 77-5 78h-24l-1-80Z" fill="#2ba0ff"/>
+<path d="M180 251h29l15 76 6 77-24 3-12-74-17-50" fill="#2ba0ff"/>
+<path d="m147 402 23 1-1 14h-23Zm59 1 23-2 2 15-23 2Z" fill="#b97e61"/>
+<path d="m147 413 22 1 10 9 11 3q4 7-5 9h-43q-2-12 5-22Zm61 0 22-1 12 9 12 2q6 7-3 10h-43q-5-10 0-20Z" fill="#fff"/>
+<path d="M143 430h42m24-2h42" stroke-width="1.6"/>
+<path d="M166 135v29c6 10 18 11 25 1v-28" fill="#b97e61"/>
+<path d="M152 101c-2-20 10-34 28-33 21 1 29 17 25 39l-4 20c-3 17-13 24-25 22-13-3-21-16-22-30Z" fill="#b97e61"/>
+<path d="M154 111c-13-8-12-28-2-39 10-12 25-13 38-6 17-3 27 16 18 30l-10-8c-12 8-24 5-32 0l-7 22Z" fill="#2c2e2a"/>
+<path d="M155 110c-9-5-14 7-3 14l6 1" fill="#b97e61"/>
+<ellipse cx="174" cy="112" rx="1.8" ry="2.1" fill="#2c2e2a" stroke="none"/>
+<ellipse cx="193" cy="111" rx="1.8" ry="2.1" fill="#2c2e2a" stroke="none"/>
+<path d="m183 114 2 8h-5m-7 10c5 4 12 4 17-1" stroke-width="1.6"/>
+<path d="M165 158c8 10 18 12 28 2 20 3 30 17 30 36l-9 64c-23 7-49 6-75-1l-4-62c-1-20 10-34 30-39Z" fill="#ff705d"/>
+<path d="M164 159c2 15 19 23 30 2m-52 89c25 4 48 4 71 0" stroke-width="1.7"/>
+<!-- Far arm gently supports a notebook from below. -->
+<path d="M213 177c11 5 16 18 18 33l-3 26-19-1-5-40" fill="#ff705d"/>
+<path d="m211 232-11 13-36-4-2 15 42 7c9 1 15-4 20-13l6-15Z" fill="#b97e61"/>
+<path d="m150 200 56-8 12 61-56 8Z" fill="#8ed462"/>
+<path d="m162 207 12 49m-3-44 22-3m-20 13 22-3" stroke-width="1.5"/>
+<!-- Near elbow stays under the shoulder, hand rests against the book cover. -->
+<path d="M144 180c-13 9-17 33-14 49 2 12 9 19 22 19l24-2-2-18-26 1 8-28" fill="#ff705d"/>
+<path d="m174 230 13-8 10-1c5 0 6 5 2 7l-9 4 12-1c5 0 6 5 1 7l-12 4-15 3Z" fill="#b97e61"/>
+<path d="m174 231 2 13" stroke-width="1.7"/>
+</g>
+</g>
+<!-- A plant balances the composition without competing with the people. -->
+<path d="m1035 338 9 57h45l9-57Z" fill="#f5e211"/>
+<path d="M1067 337v-91" stroke-width="2.5"/>
+<path d="M1067 292c-29-2-40-20-34-39 25 0 39 17 34 39Zm1-10c2-29 19-40 39-35-1 26-17 37-39 35Zm-1 39c-21 0-31-11-28-27 20 0 30 12 28 27Z" fill="#8ed462"/>
+<path d="m99 142 9-20 8 20 20 8-20 9-8 20-9-20-20-9Z" fill="#2ba0ff" stroke="none"/>
+<path d="m989 103 8-17 7 17 18 8-18 7-7 18-8-18-17-7Z" fill="#ff705d" stroke="none"/>
+<path d="M412 77c-9-12-25-2-16 10l14 14 15-14c11-12-6-23-13-10Z" fill="#ff705d" stroke="none"/>
+<circle cx="779" cy="111" r="7" fill="#2ba0ff" stroke="none"/>
+<path d="m587 43 2-17m18 20 8-12m-47 13-9-10" stroke-width="2"/>
+
 </g></svg>

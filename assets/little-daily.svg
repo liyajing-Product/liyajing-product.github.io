@@ -1,22 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" fill="none"><g stroke="#2c2e2a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
-<circle cx="426" cy="102" r="43" fill="#f5e211" stroke="none"/><path d="M426 39V22m0 160v-16m63-64h17m-160 0h17m108-45 12-12m-113 113 12-12m0-89-12-12m101 101 12 12" stroke="#e0b83b"/>
-<path d="M72 416h464" stroke="#c9c6b9" stroke-width="2"/>
-<path d="M129 409V251c0-35 27-54 55-54h92v212" fill="#b9a0e5"/>
-<path d="M144 279h128" stroke="#847095" stroke-width="2"/>
-<path d="m229 262 58 37 49-25 16 29-64 45c-10 7-21 5-32-1l-58-35" fill="#2ba0ff"/>
-<path d="M185 261c-10 21-7 43 11 54l50 27-6 49 31 6 20-62c3-11-3-23-13-29l-36-26" fill="#2ba0ff"/>
-<path d="m240 389-8 22h58c8 0 8-7 1-11l-21-9m65-118 20 30 24-17c7-5 3-11-5-11l-17-2-11-15" fill="#2c2e2a"/>
-<path d="M183 172c-25 14-37 37-25 69 20 29 56 37 86 21l4-66-37-30Z" fill="#8ed462"/>
-<path d="M230 196c23 10 43 26 53 45l24-19 12 17-32 34c-7 7-17 5-24-1l-43-36" fill="#8ed462"/>
-<path d="m305 222 3-15c2-9 9-8 8 0l-1 7 15-5c8-2 10 5 2 8l-9 4 10 3c7 3 5 8-1 7l-16-1Z" fill="#f5f1e4"/>
-<path d="m189 173 3-28 28 3v28c-9 9-21 9-31-3Z" fill="#f5f1e4"/>
-<path d="M183 122c-6 19 3 36 18 38 18 3 35-15 33-34l-23-27Z" fill="#f5f1e4"/>
-<path d="M184 140c-19-2-24-24-12-38 15-20 42-20 59-2 8 9 9 20 3 31l-12-16-10 8-11-10-14 12Z" fill="#2c2e2a"/>
-<path d="m208 137 2 3m1 11 7-2" stroke-width="2.5"/>
-<path d="M354 250h138v14H354Z" fill="#ff705d"/><path d="M370 264v148m107-148v148"/>
-<path d="m375 250 10-42h56l8 42Z" fill="#fff"/><path d="M399 226c6 5 13 5 19 0" stroke-width="2"/>
-<path d="M451 198h34v46h-34Z" fill="#f5e211"/><path d="M485 206c20-4 23 24 0 22"/>
-<path d="M462 184c-14-16 10-21-2-35m16 38c-13-15 8-20-2-32" stroke="#80827f" stroke-width="2"/>
-<path d="M91 115c-4-22 17-34 31-18 10-24 37-9 24 12l-28 31Z" fill="#ff705d" stroke="none"/>
-<path d="m489 330 9-20 9 20 20 9-20 9-9 20-9-20-20-9Z" fill="#2ba0ff" stroke="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" fill="none">
+<g stroke="#2c2e2a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M54 433h495" stroke="#d4cfbf" stroke-width="1.5"/>
+<circle cx="438" cy="99" r="37" fill="#f5e211" stroke="none"/>
+<path d="M438 45V30m0 138v-15m-54-54h-15m138 0h-15m-92-38-10-10m86 86 10 10m-10-86 10-10" stroke="#d8b335" stroke-width="2"/>
+<g transform="translate(15 18)">
+<g id="seated-reader">
+<!-- Chair: seat and back support the hips, all feet share the same floor. -->
+<path d="M135 191q-17 0-17 19v78q0 14 16 14h102v-17h-84v-75q0-19-17-19Z" fill="#b9a0e5"/>
+<path d="M133 301 123 414M219 301 233 414" stroke-width="4"/>
+<!-- Far leg, ankle and shoe. -->
+<path d="M210 272c22 3 53 7 76 15 11 4 15 12 16 23l12 69-22 5-22-65-62-17Z" fill="#ff705d"/>
+<path d="m292 377 22-2 3 17-22 3Z" fill="#f1c8ad"/>
+<path d="m294 391 21-2 14 8 14 3q7 6-2 10h-49q-5-5 2-19Z" fill="#fff"/>
+<path d="M293 404h48m-29-10 8 6" stroke-width="1.6"/>
+<!-- Near thigh is horizontal; calf drops below the knee without a sharp twist. -->
+<path d="M174 269c19 1 61 6 100 15 13 3 20 9 20 22l-5 79h-24l-3-68-74-7c-22-3-30-19-14-41Z" fill="#ff705d"/>
+<path d="M267 381h21v14h-21Z" fill="#f1c8ad"/>
+<path d="m266 391 23 1 16 10 12 3q4 7-5 9h-49q-4-10 3-23Z" fill="#fff"/>
+<path d="M264 408h49m-29-11 9 7" stroke-width="1.6"/>
+<!-- Neck and head. -->
+<path d="M177 151v26l24 2 2-31" fill="#f1c8ad"/>
+<path d="M164 123c-7-20-1-45 20-51 22-5 38 11 38 34l-5 30-43 16Z" fill="#2c2e2a"/>
+<path d="M177 105c11 1 23-6 27-16 11 7 16 18 15 30l6 8-9 5c-2 17-11 25-23 23-15-3-22-15-22-30Z" fill="#f1c8ad"/>
+<path d="M177 123c-11-7-16 7-5 13l6 1" fill="#f1c8ad"/>
+<path d="M202 112h7m-2 18h7m-15 12c5 3 9 3 13 0" stroke-width="1.6"/>
+<ellipse cx="207" cy="119" rx="1.7" ry="2.2" fill="#2c2e2a" stroke="none"/>
+<path d="M166 91c-14 1-24 15-20 29 3 13 12 19 26 17l4-37Z" fill="#2c2e2a"/>
+<!-- Relaxed torso, shoulders over hips. -->
+<path d="M171 166c9 8 20 11 31 4 19 8 30 28 28 51l-4 54c-17 9-42 8-64-1l-5-66c-1-19 2-32 14-42Z" fill="#8ed462"/>
+<path d="M175 168c1 14 15 20 27 2m-39 97c21 5 43 6 63-1" stroke-width="1.8"/>
+</g>
+
+<!-- Far forearm supports the lower edge of the book. -->
+<path d="M212 189c10 4 14 15 19 32l17 25-16 12-24-30-11-22" fill="#8ed462"/>
+<path d="m234 242 19 12 20 4-4 14-28-5-17-11Z" fill="#f1c8ad"/>
+<!-- Open book, held at a comfortable reading angle. -->
+<path d="m244 215 37 11 13 49-35-11Z" fill="#fff"/>
+<path d="m281 226 35-16 12 47-34 18Z" fill="#fff"/>
+<path d="m281 226 13 49m-42-45 20 6m-17 5 20 6m17-15 17-8m-14 19 17-8" stroke="#80827f" stroke-width="1.4"/>
+<!-- Near upper arm folds once at the elbow, wrist stays straight. -->
+<path d="M168 185c-10 13-13 41-5 57 6 11 18 16 31 14l31-9-6-19-29 6-3-31" fill="#8ed462"/>
+<path d="m219 229 22-7c6-2 13 0 16 4l7 8c2 4-2 7-5 4l-5-5 5 11c1 4-4 6-6 2l-7-10-4 3-18 8Z" fill="#f1c8ad"/>
+<path d="m220 230 5 16m-61-11c3 9 11 13 18 13" stroke-width="1.7"/>
+</g>
+<!-- A real side table and cup make the relaxed posture legible. -->
+<ellipse cx="432" cy="285" rx="66" ry="12" fill="#b9a0e5"/>
+<path d="M371 286v10c17 13 106 13 122 0v-10" fill="#b9a0e5"/>
+<path d="m389 303-9 124m96-124 9 124" stroke-width="3"/>
+<path d="M412 249h34v29q-17 8-34 0Z" fill="#fff"/>
+<path d="M446 253c20-4 22 19 1 19"/>
+<path d="M421 238c-9-12 7-17 0-27m14 27c-9-12 7-17 0-27" stroke="#80827f" stroke-width="1.7"/>
+<path d="m73 145 7-17 8 17 17 7-17 8-8 17-7-17-17-8Z" fill="#2ba0ff" stroke="none"/>
+<path d="M348 88c-10-12-24-1-14 11l13 12 14-12c10-12-5-23-13-11Z" fill="#ff705d" stroke="none"/>
+<path d="m532 362-10-20m17 13 5-18" stroke="#8ed462" stroke-width="3"/>
+
 </g></svg>

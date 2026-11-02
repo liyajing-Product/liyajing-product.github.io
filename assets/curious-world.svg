@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" fill="none">
+<g stroke="#2c2e2a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+<!-- A thought taking a walk. Flat, original editorial artwork. -->
+<path d="M44 389c87-11 141 7 217-1m27 0c85-8 166-7 241-1m61 0c110-9 192-3 281 1m30 0c100-8 164-4 258 0" stroke="#c9c6b9" stroke-width="2"/>
+<path d="m73 273 21-27 3 34 34 9-31 13-4 34-19-27-33 6 20-26-10-29Z" fill="#f5e211" stroke="none"/>
+<path d="M126 81c-10-21 9-35 20-15 6-24 31-16 20 5l-25 27Z" fill="#ff705d" stroke="none"/>
+<path d="m1027 70 10-24 11 24 24 10-24 11-11 24-10-24-25-11Z" fill="#2ba0ff" stroke="none"/>
+<!-- Left character: sitting on a very big idea. -->
+<path d="M139 367c-18-80 15-129 87-139 68-10 112 32 102 94-5 30-25 57-54 65H157Z" fill="#b9a0e5" stroke="none"/>
+<path d="M165 337c15-36 45-50 77-45" stroke="#796394" stroke-width="2"/>
+<path d="M239 223c-28 19-43 38-43 63l59 25 14 55 31-4-5-77-42-29 39-33" fill="#ff705d"/>
+<path d="m260 310 50-7 23 59 27-5 10 27-55 6-29-55" fill="#ff705d"/>
+<path d="m269 365 32-3 10 19c2 9-8 12-18 12h-26c-9 0-9-9 2-28Z" fill="#2c2e2a"/>
+<path d="m333 359 24-5 26 14c15 7 13 17 3 19l-32 2-17-12Z" fill="#2c2e2a"/>
+<path d="M229 137c-29 23-38 67-18 94 28 20 66 14 86-10l-8-79-30-25Z" fill="#2ba0ff"/>
+<path d="M229 160c-16 17-27 37-35 51-6 9-17 8-25-3l-30-41-16 10 35 59c16 25 41 16 56-1l29-40" fill="#2ba0ff"/>
+<path d="m139 167-4-17c-2-8-8-6-9 0l-2 8-12-13c-4-4-9 0-6 5l11 19-11-5c-6-2-8 5-2 9l20 11Z" fill="#f5f1e4"/>
+<path d="M277 159c10 23 24 35 48 39l26-37 16 11-25 50c-9 17-28 14-45 9l-17-8" fill="#2ba0ff"/>
+<path d="m350 163 5-14c3-8 9-7 9 1l-1 6 15-11c7-4 10 1 5 6l-10 11 9-2c8-1 8 6 1 9l-18 6Z" fill="#f5f1e4"/>
+<path d="M234 142v-27l32-3 1 26c-8 13-23 15-33 4Z" fill="#f5f1e4"/>
+<path d="M226 86c-10 18-4 43 12 47 13 5 31-3 34-18l6-20-24-26Z" fill="#f5f1e4"/>
+<path d="M227 104c-8-10-17-32-3-44 12-10 37-8 49 5 11 13 11 25 4 36l-10-15-12 3-8-11-9 21Z" fill="#2c2e2a"/>
+<path d="M225 102c-9-6-14 3-7 11l9 3" fill="#f5f1e4"/>
+<path d="m254 107 2 4m3 10 7-3" stroke-width="2.5"/>
+<!-- Central paper-cut thought cloud. -->
+<path d="M459 241c-39-2-53-43-24-66-20-35 13-66 45-55 2-40 50-48 72-23 28-33 72-18 76 17 36-16 68 14 58 45 43 9 47 52 16 72 15 37-19 68-52 57-13 36-56 40-77 10-31 26-71 10-72-24-22 8-40-8-42-33Z" fill="#8ed462"/>
+<path d="M525 174c-8 2-12 10-7 17m59-18c-8 0-12 8-8 15" stroke-width="4"/>
+<path d="M538 205c10 10 26 9 34-3" stroke-width="3"/>
+<path d="M479 250c-26 19-44 26-69 17l-23-12m263 6c29 6 48 0 65-20l19-24" stroke-width="10"/>
+<path d="m388 255-15-12m16 13-19 1m364-40 3-15m-3 15 15-5" stroke-width="4"/>
+<path d="m526 298-13 60-33 15m110-73 24 52 34 8" stroke-width="9"/>
+<path d="m483 369-21 15h50l7-24m96-6 4 30h50l-22-21" fill="#2c2e2a"/>
+<!-- A little handwritten orbit. -->
+<path d="M411 129c-10-38 34-73 86-74m151-3c46 5 74 34 71 65" stroke="#80827f" stroke-width="2" stroke-dasharray="5 8"/>
+<path d="m708 110 11 10 11-12" stroke="#80827f" stroke-width="2"/>
+<path d="m573 52-8-31m30 32 12-30m-54 39-25-15" stroke-width="3"/>
+<!-- Right character: making space for a new idea. -->
+<path d="M834 254c-23 31-36 55-38 96l-36 9 4 28h65l21-91 28 14-5 57 32 8 24-85-35-42Z" fill="#2ba0ff"/>
+<path d="m761 359 5 28h-44c-14 0-18-9-4-17l24-12Zm111 9 31 5 25 19c7 6 2 13-9 12l-47-6Z" fill="#2c2e2a"/>
+<path d="M840 143c-31 22-34 64-27 101 23 26 65 32 102 10l-17-102-30-17Z" fill="#ff705d"/>
+<path d="M826 169c-31 12-54 12-75 3l-15-10-10 17 18 15c23 18 52 23 78 12" fill="#ff705d"/>
+<path d="m738 165-13-14c-5-6-10-2-7 4l5 7-15-5c-8-2-10 5-2 8l9 3-9 2c-7 2-5 8 2 8l19 1Z" fill="#f5f1e4"/>
+<path d="M889 169c14 16 20 39 21 61l40-1 5 21-60 7c-15 1-20-17-24-33" fill="#ff705d"/>
+<path d="m948 231 18-3 16 8c7 4 4 10-3 7l-10-3 8 10c4 5-1 9-6 5l-12-10-7 5Z" fill="#f5f1e4"/>
+<path d="m851 144 4-30 28 6-1 29c-12 8-23 5-31-5Z" fill="#f5f1e4"/>
+<path d="M839 101c-3 19 8 34 23 34 19 0 32-22 26-40l-17-20Z" fill="#f5f1e4"/>
+<path d="M839 109c-17-6-21-21-11-33 7-8 14-6 20-6 4-19 34-19 44-4 10 16-1 35-8 43l-8-19-11 7-12-8-10 9Z" fill="#2c2e2a"/>
+<path d="m853 109 2 3m3 11 7-1" stroke-width="2.5"/>
+<!-- Plant, tiny shapes and the feeling of a sunny desk. -->
+<path d="m1007 337 10 49h53l10-49Z" fill="#f5e211"/>
+<path d="M1042 337v-97m0 57c-38-2-52-21-45-48 30 2 48 19 45 48Zm0-20c1-31 18-48 43-43 1 26-14 43-43 43Zm0 46c-23 0-35-14-33-33 22-1 35 12 33 33Z" fill="#8ed462"/>
+<path d="m1104 184 14 11m-15 16 20 1m-28 14 12 14" stroke="#ff705d"/>
+<circle cx="379" cy="105" r="7" fill="#2ba0ff" stroke="none"/>
+<circle cx="774" cy="84" r="6" fill="#b9a0e5" stroke="none"/>
+<path d="M75 371c-7-17-2-29 11-31 13-1 19 14 11 28m11 5c1-17 9-23 20-19" stroke-width="2.5"/>
+</g></svg>
